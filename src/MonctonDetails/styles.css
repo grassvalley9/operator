@@ -1,0 +1,91 @@
+.mock-details-table-section {
+    display: block;
+    border-radius: 2px;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 9px 2px darkgrey;
+    width: auto;
+    overflow: scroll;
+    height: 73vh;
+     border: 2px solid #000000;
+  }
+  
+  .mock-details-table-section tr {
+    display: inline-table;
+    width: auto;
+    cursor: pointer;
+    height: 50px;
+    
+  }
+  .mock-details-table-section tr:hover {
+    background-color: green;
+  }
+  tr1:hover{
+      background-color:green;
+  }
+  myborder:hover{
+      background-color:green;
+  }
+  .tabletd{
+      width:220px;
+      border-right:2px solid #000000;
+      padding:3px;
+  }
+  .tabletd1{
+      width:280px;
+      border-right:2px solid #000000;
+      padding:3px;
+  }
+   .controller-section {
+    margin-top: 20px;
+    display: flex;
+  }
+  #table{
+      border:2px solid black;
+  }
+  .controller-section button {
+    height: 40px;
+    width: 120px;
+    background-color: #2185d0;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    border-radius: 4px;
+   
+    margin-right: 10px;
+  
+  }
+  
+  .controllers {
+    margin-left: 20px;
+  }
+  
+  .right{
+    float:right;
+    margin-left:10%;
+  }
+  .left{
+    float:left;
+  }
+  
+  .button-table-section  {
+  
+    width: 800px;
+  }
+    
+  .button-table-section .red {
+    height: 40px;
+    width: 100%;
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    border-radius: 4px;
+    margin-top: 5px;
+    margin-right: 10px;
+  
+  }

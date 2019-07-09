@@ -1,0 +1,71 @@
+.Insert-Section  button {
+    height: 40px;
+   width: 80%;
+   background-color: pink;
+   color: white;
+   font-size: 14px;
+   font-weight: bold;
+   cursor: pointer;
+   outline: none;
+   border-radius: 4px;
+    margin-left:20px;
+   
+ }
+  .Insert-Section1  button {
+    height: 40px;
+   width: 80%;
+   background-color: #4565d0;
+   color: white;
+   font-size: 14px;
+   font-weight: bold;
+   cursor: pointer;
+   outline: none;
+   border-radius: 4px;
+   
+   margin-left:20px;
+   margin-top:10%;
+ }
+
+
+ .Insert-Section .Takelive {
+    height: 40px;
+   width: 80%;
+   background-color: #4565d0;
+   color: white;
+   font-size: 14px;
+   font-weight: bold;
+   cursor: pointer;
+   outline: none;
+   border-radius: 4px;
+   border-radius: 4px;
+  
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   
+ }
+ 
+
+ #Insert{
+     margin-top:160%;
+ }
+ #Popuppos{
+      margin-left: -10%;
+ }
+ .Insert-Section .TakeClip {
+   height: 40px;
+   width: 80%;
+   background-color: #FF1493;
+   color: white;
+   font-size: 14px;
+   font-weight: bold;
+   cursor: pointer;
+   outline: none;
+   border-radius: 4px;
+   top: 225%;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+}

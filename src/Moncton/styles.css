@@ -1,0 +1,16 @@
+.moncton {
+    margin: auto;
+    max-width: auto;
+    margin-top: 50px;
+  }
+  .moncton-section {
+    display: flex;
+  }
+  
+  .channel-controlpoint-section {
+    margin-left: 10px;
+  }
+  
+  .count-down-section {
+    margin-left: 20px;
+  }

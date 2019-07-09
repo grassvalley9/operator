@@ -1,0 +1,8 @@
+.source-section {
+    box-shadow: 2px 2px 9px 2px darkgrey;
+    width: 100px;
+    padding: 20px;
+    margin-top: 300px;
+    box-sizing: border-box;
+    height: 20vh;
+  }
